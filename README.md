@@ -1,5 +1,10 @@
 # 💫 About Me:
-AI-driven Bioinformatics, Machine Learning for Disease Prediction, and Spatial Multi-Omics Analysis of Gastric and Pancreatic Cancer.<br>Bioinformatics Research, AI/ML Applications in Healthcare, Computational Biology, Cancer Research, and Genomics Projects.<br>Graph Neural Networks (GNNs), Spatial Transcriptomics, Multi-Omics Data Integration, and Explainable AI for Biomedical Research.<br>Python, Machine Learning, Deep Learning, Graph Neural Networks, Bioinformatics Pipelines, and Spatial Multi-Omics Analysis.<br>Python, Bioinformatics, Machine Learning, Computational Biology, Genomics, Biomedical Data Analysis, and AI in Healthcare.<br>I'm passionate about combining Biology and Artificial Intelligence to turn complex biomedical data into meaningful scientific discoveries! 🧬🤖
+🔭 I'm currently working on AI-driven Bioinformatics and Cancer Research.
+👯 I'm looking to collaborate on Bioinformatics, AI/ML, and Computational Biology projects.
+🤝 I'm looking for help with Graph Neural Networks, Spatial Multi-Omics, and Explainable AI.
+🌱 I'm currently learning Machine Learning, Deep Learning, Genomics, and Graph Neural Networks.
+💬 Ask me about Python, Bioinformatics, Machine Learning, and Biomedical Data Analysis.
+⚡ Fun fact: I combine Biology and AI to turn complex biomedical data into meaningful discoveries!
 
 
 ## 🌐 Socials:
